@@ -14,7 +14,7 @@
     height: 5vw;
     font-size: 4vw;
     font-weight: 900;
-    line-height: 1.6;
+    line-height: 1.5;
     text-transform: uppercase;
     font-family: var(--mainKor-font);
     color: var(--black100);
@@ -46,7 +46,7 @@
     font-size: 1.1rem;
 }
 
-@media (max-width: 800px) {
+ @media (max-width: 800px) {
     .skill__inner {
         flex-direction: column;
     }
@@ -64,5 +64,5 @@
     }
     .skill__desc span {
         font-size: 20vw;
-    }
-}
+    } 
+} 
